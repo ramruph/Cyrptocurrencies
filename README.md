@@ -4,8 +4,11 @@ An analysis of cryptocurrency that are being traded and are worth investing in. 
 Steps of analysis:
 
 -Preprocessing the Data for PCA
+
 -Reducing Data Dimensions Using PCA
+
 -Clustering Cryptocurrencies Using K-means
+
 -Visualizing Cryptocurrencies Results
 # Overiview
 
