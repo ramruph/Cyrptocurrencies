@@ -1,5 +1,4 @@
 # Cyrptocurrencies
--using Unsupervised Machine Learning to find cryptocurrencies that are worth investing in.
 
 An analysis of cryptocurrency that are being traded and are worth investing in. Data is analyized using unspervised machine learning and techniques such as K-mean clustering, Principal Component Analysis, 3D graphing of clusters, and scaling of data. 
 
